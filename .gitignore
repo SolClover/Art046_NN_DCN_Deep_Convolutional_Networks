@@ -6,5 +6,5 @@
 .DS_Store
 
 # Specific folders
-/101_ObjectCategories/*
-/256_ObjectCategories/*
+101_ObjectCategories/*
+256_ObjectCategories/*
