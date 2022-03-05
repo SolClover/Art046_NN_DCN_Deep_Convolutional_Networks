@@ -6,3 +6,4 @@ Public repository containing materials used in the Deep Convolutional Neural Net
 Article link: TBC
 
 Data Source and Licence: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+After downloading the data, place in the "data/101_ObjectCategories"
