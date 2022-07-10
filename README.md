@@ -5,5 +5,5 @@ Public repository containing materials used in the Deep Convolutional Neural Net
 
 Article link: https://towardsdatascience.com/convolutional-neural-networks-explained-how-to-successfully-classify-images-in-python-df829d4ba761
 
-Data Source and Licence: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+Data Source and Licence: https://data.caltech.edu/records/20086
 After downloading the data, place in the "data/101_ObjectCategories"
